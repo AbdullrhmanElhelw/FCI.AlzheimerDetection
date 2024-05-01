@@ -1,0 +1,651 @@
+[
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AddRelativeController",
+    "Method": "AddRelative",
+    "RelativePath": "api/AddRelative/AddRelative{patientId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "relativeDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.RelativeDTOs.AddRelativeDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "patientId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Admin/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passwordDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.EmailServiceDTOs.ChangePasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "CreateAdmin",
+    "RelativePath": "api/Admin/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.AdminDTOs.CreateAdminDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "Delete",
+    "RelativePath": "api/Admin/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "GetAdmin",
+    "RelativePath": "api/Admin/GetAdmin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ssn",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.AdminDTOs.ReadAdminDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "GetAllAdmins",
+    "RelativePath": "api/Admin/GetAllAdmins",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Linq.IQueryable\u00601[[FCI.AlzheimerDetection.BL.DTOs.AdminDTOs.ReadAdminDTO, FCI.AlzheimerDetection.BL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "GetAllAdminsWithPaging",
+    "RelativePath": "api/Admin/GetAllAdmins{pageNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Linq.IQueryable\u00601[[FCI.AlzheimerDetection.BL.DTOs.AdminDTOs.ReadAdminDTO, FCI.AlzheimerDetection.BL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "GetAllByName",
+    "RelativePath": "api/Admin/GetAllByName{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Linq.IQueryable\u00601[[FCI.AlzheimerDetection.BL.DTOs.AdminDTOs.ReadAdminDTO, FCI.AlzheimerDetection.BL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminController",
+    "Method": "Login",
+    "RelativePath": "api/Admin/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "adminDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.AdminDTOs.LoginAdminDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.AdminMRIController",
+    "Method": "UploadMRI",
+    "RelativePath": "api/AdminMRI/UploadMRI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mri",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.MRIDTOs.CreateMRIDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.MedicineController",
+    "Method": "CreateMedicine",
+    "RelativePath": "api/Medicine/CreateMedicine",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "medicineDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.MedicineDTOs.CreateMedicineDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.MedicineDTOs.CreateMedicineDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.MedicineController",
+    "Method": "DeleteMedicine",
+    "RelativePath": "api/Medicine/DeleteMedicine/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.MedicineController",
+    "Method": "GetAllMedicines",
+    "RelativePath": "api/Medicine/GetAllMedicines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Linq.IQueryable\u00601[[FCI.AlzheimerDetection.BL.DTOs.MedicineDTOs.ReadMedicineDTO, FCI.AlzheimerDetection.BL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.MedicineController",
+    "Method": "GetMedicine",
+    "RelativePath": "api/Medicine/GetMedicine/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.MedicineDTOs.ReadMedicineDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.MedicineController",
+    "Method": "UpdateMedicine",
+    "RelativePath": "api/Medicine/UpdateMedicine/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "medicineDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.MedicineDTOs.UpdateMedicineDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/NormalUser/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "changePasswordDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.EmailServiceDTOs.ChangePasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserController",
+    "Method": "ConfirmEmail",
+    "RelativePath": "api/NormalUser/ConfirmEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserController",
+    "Method": "ForgetPassword",
+    "RelativePath": "api/NormalUser/ForgetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserController",
+    "Method": "Login",
+    "RelativePath": "api/NormalUser/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.NormalUserDTOs.LoginNormalUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserController",
+    "Method": "Register",
+    "RelativePath": "api/NormalUser/Regestratoin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.NormalUserDTOs.RegisterNormalUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/NormalUser/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "resetPasswordDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.EmailServiceDTOs.ResetPasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserMRIController",
+    "Method": "UploadMRI",
+    "RelativePath": "api/NormalUserMRI/UploadMRI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MRI",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.NormalUserMRIController",
+    "Method": "UploadMultipleMRI",
+    "RelativePath": "api/NormalUserMRI/UploadMultipleMRI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MRIs",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.MRIDTOs.UploadMultipleMRIDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "CreatePatient",
+    "RelativePath": "api/Patient/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPatientDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.PatientDTOs.CreatePatientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.PatientDTOs.CreatePatientDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "DeletePatient",
+    "RelativePath": "api/Patient/DeletePatient{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "GetAll",
+    "RelativePath": "api/Patient/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "GetAllPatientsWithPaging",
+    "RelativePath": "api/Patient/GetAllPatients{pageNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "GetPateintById",
+    "RelativePath": "api/Patient/GetPatient{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "Search",
+    "RelativePath": "api/Patient/Search{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "Search",
+    "RelativePath": "api/Patient/Search{key}/{pageNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.PatientController",
+    "Method": "UpdatePatient",
+    "RelativePath": "api/Patient/UpdatePatient{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatePatientDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.PatientDTOs.UpdatePatientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FCI.AlzheimerDetection.Presentation.Controllers.RelativeController",
+    "Method": "Login",
+    "RelativePath": "api/Relative/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "relativeDTO",
+        "Type": "FCI.AlzheimerDetection.BL.DTOs.RelativeDTOs.LoginRelativeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

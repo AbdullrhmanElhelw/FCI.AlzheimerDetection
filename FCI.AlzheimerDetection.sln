@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCI.AlzheimerDetection.DAL", "FCI.AlzheimerDetection.DAL\FCI.AlzheimerDetection.DAL.csproj", "{9B101229-0FE9-498C-B88F-A24CDCEFA735}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCI.AlzheimerDetection.BL", "FCI.AlzheimerDetection.BL\FCI.AlzheimerDetection.BL.csproj", "{96F00998-286F-4AA9-896B-3553F9065AA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FCI.AlzheimerDetection.Presentation", "FCI.AlzheimerDetection.Presentation\FCI.AlzheimerDetection.Presentation.csproj", "{9B33FD3C-C401-40B4-870C-EEF810CE1B97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{7395B288-0C9B-4A1D-A757-603F4F00D616}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{07D8A57D-CFE0-41A8-A3DA-4EC0219CF838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B101229-0FE9-498C-B88F-A24CDCEFA735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B101229-0FE9-498C-B88F-A24CDCEFA735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B101229-0FE9-498C-B88F-A24CDCEFA735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B101229-0FE9-498C-B88F-A24CDCEFA735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F00998-286F-4AA9-896B-3553F9065AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F00998-286F-4AA9-896B-3553F9065AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F00998-286F-4AA9-896B-3553F9065AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F00998-286F-4AA9-896B-3553F9065AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B33FD3C-C401-40B4-870C-EEF810CE1B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B33FD3C-C401-40B4-870C-EEF810CE1B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B33FD3C-C401-40B4-870C-EEF810CE1B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B33FD3C-C401-40B4-870C-EEF810CE1B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D8A57D-CFE0-41A8-A3DA-4EC0219CF838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D8A57D-CFE0-41A8-A3DA-4EC0219CF838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D8A57D-CFE0-41A8-A3DA-4EC0219CF838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D8A57D-CFE0-41A8-A3DA-4EC0219CF838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B101229-0FE9-498C-B88F-A24CDCEFA735} = {7395B288-0C9B-4A1D-A757-603F4F00D616}
+		{96F00998-286F-4AA9-896B-3553F9065AA7} = {7395B288-0C9B-4A1D-A757-603F4F00D616}
+		{9B33FD3C-C401-40B4-870C-EEF810CE1B97} = {7395B288-0C9B-4A1D-A757-603F4F00D616}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B6146E-3547-452F-AE1C-237CB39F2CDF}
+	EndGlobalSection
+EndGlobal

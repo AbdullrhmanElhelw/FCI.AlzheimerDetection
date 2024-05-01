@@ -1,0 +1,28 @@
+services:
+  webapp:
+    build: .
+    ports:
+      - "8080:8080"
+    networks:
+      - net1
+    depends_on:
+      - sqlserver
+    environment:
+      - ConnectionStrings:AlzAwareDb=Server=sqlserver;Database=AlzAwareDatabase;User Id=sa;Password=Abc123@!;TrustServerCertificate=True
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    networks:
+      - net1
+    hostname: sqlserver
+    volumes:
+      - sqldata:/var/opt/mssql
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Abc123@!
+
+networks:
+  net1:
+
+volumes:
+  sqldata:

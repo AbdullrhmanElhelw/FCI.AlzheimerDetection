@@ -1,0 +1,611 @@
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.exe
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Core.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Identity.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Humanizer.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.CodeDom.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Memory.Data.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Runtime.Caching.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.AssemblyReference.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfoInputs.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfo.cs
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.CoreCompileInputs.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cs
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.build.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.development.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.FCI.AlzheimerDetection.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.build.FCI.AlzheimerDetection.Presentation.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FCI.AlzheimerDetection.Presentation.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FCI.AlzheimerDetection.Presentation.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/scopedcss/bundle/FCI.AlzheimerDetection.Presentation.styles.css
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/refint/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.Development.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.deps.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.runtimeconfig.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.CopyComplete
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.genruntimeconfig.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/ref/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MailKit.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MimeKit.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.Development.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.exe
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.deps.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.runtimeconfig.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Core.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Identity.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Humanizer.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MailKit.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MimeKit.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.CodeDom.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Memory.Data.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Runtime.Caching.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.AssemblyReference.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfoInputs.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfo.cs
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.CoreCompileInputs.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cs
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.sourcelink.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.build.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.development.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.FCI.AlzheimerDetection.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.build.FCI.AlzheimerDetection.Presentation.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FCI.AlzheimerDetection.Presentation.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FCI.AlzheimerDetection.Presentation.props
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/scopedcss/bundle/FCI.AlzheimerDetection.Presentation.styles.css
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.Alzh.2CE18FA5.Up2Date
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/refint/FCI.AlzheimerDetection.Presentation.dll
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.genruntimeconfig.cache
+E:/Graduation Project/Back-End/FCI.AlzheimerDetection/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/ref/FCI.AlzheimerDetection.Presentation.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.exe
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.deps.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.runtimeconfig.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Humanizer.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MailKit.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MimeKit.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.pdb
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.pdb
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.AssemblyReference.cache
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfoInputs.cache
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfo.cs
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.CoreCompileInputs.cache
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.sourcelink.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.FCI.AlzheimerDetection.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.build.FCI.AlzheimerDetection.Presentation.props
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FCI.AlzheimerDetection.Presentation.props
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FCI.AlzheimerDetection.Presentation.props
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/scopedcss/bundle/FCI.AlzheimerDetection.Presentation.styles.css
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.Alzh.2CE18FA5.Up2Date
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/refint/FCI.AlzheimerDetection.Presentation.dll
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.genruntimeconfig.cache
+C:/Users/UAS/Desktop/Grad_proj/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/ref/FCI.AlzheimerDetection.Presentation.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.Development.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/appsettings.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.deps.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.runtimeconfig.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Core.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Azure.Identity.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Humanizer.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MailKit.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/MimeKit.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.CodeDom.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Memory.Data.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.BL.pdb
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/bin/Debug/net8.0/FCI.AlzheimerDetection.DAL.pdb
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.AssemblyReference.cache
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfoInputs.cache
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.AssemblyInfo.cs
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.CoreCompileInputs.cache
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cs
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.MvcApplicationPartsAssemblyInfo.cache
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.sourcelink.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.build.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.development.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.FCI.AlzheimerDetection.Presentation.Microsoft.AspNetCore.StaticWebAssets.props
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.build.FCI.AlzheimerDetection.Presentation.props
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FCI.AlzheimerDetection.Presentation.props
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FCI.AlzheimerDetection.Presentation.props
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/staticwebassets.pack.json
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/scopedcss/bundle/FCI.AlzheimerDetection.Presentation.styles.css
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.csproj.CopyComplete
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/refint/FCI.AlzheimerDetection.Presentation.dll
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.pdb
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/FCI.AlzheimerDetection.Presentation.genruntimeconfig.cache
+/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/Debug/net8.0/ref/FCI.AlzheimerDetection.Presentation.dll

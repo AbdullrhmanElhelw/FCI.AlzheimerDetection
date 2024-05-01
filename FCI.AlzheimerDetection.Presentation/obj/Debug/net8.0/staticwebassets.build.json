@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cihbU/XZVMT4C1Bml36tYf9IL6fQ8djXdPiJnf/wKGY=",
+  "Source": "FCI.AlzheimerDetection.Presentation",
+  "BasePath": "_content/FCI.AlzheimerDetection.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
