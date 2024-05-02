@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vRbC+B1UR9LMAz+ExxBEsb0b5JEIjeJAOMlRNr4MoMP/w2KDGxPBYHChBysqmKyGUGxFBOqOa9mrcM4LSu8qVw==",
+  "dgSpecHash": "pID9oaXVbSAlJ7M9u2k8rQ8ocb0VM/G4eQ7RsI220cxJp0YHF0t153TNAP4K8CtjWql8EV2+bsSkDZjMCy4upQ==",
   "success": true,
-  "projectFilePath": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/FCI.AlzheimerDetection.DAL.csproj",
+  "projectFilePath": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/FCI.AlzheimerDetection.DAL.csproj",
   "expectedPackageFiles": [
     "/home/eng-cocu/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/home/eng-cocu/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

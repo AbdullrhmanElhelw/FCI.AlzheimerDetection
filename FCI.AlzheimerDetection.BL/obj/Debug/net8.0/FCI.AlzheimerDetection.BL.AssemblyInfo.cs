@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FCI.AlzheimerDetection.BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a47afa5ded744bce87828f5675456c7e42880d51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c538dfd1bd1b0bc2315450c1524e1d77138fa538")]
 [assembly: System.Reflection.AssemblyProductAttribute("FCI.AlzheimerDetection.BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FCI.AlzheimerDetection.BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4720,11 +4720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/FCI.AlzheimerDetection.Presentation.csproj",
+      "projectUniqueName": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/FCI.AlzheimerDetection.Presentation.csproj",
       "projectName": "FCI.AlzheimerDetection.Presentation",
-      "projectPath": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/FCI.AlzheimerDetection.Presentation.csproj",
+      "projectPath": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/FCI.AlzheimerDetection.Presentation.csproj",
       "packagesPath": "/home/eng-cocu/.nuget/packages/",
-      "outputPath": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/",
+      "outputPath": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.Presentation/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eng-cocu/.nuget/NuGet/NuGet.Config"
@@ -4739,8 +4739,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.BL/FCI.AlzheimerDetection.BL.csproj": {
-              "projectPath": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.BL/FCI.AlzheimerDetection.BL.csproj"
+            "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.BL/FCI.AlzheimerDetection.BL.csproj": {
+              "projectPath": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.BL/FCI.AlzheimerDetection.BL.csproj"
             }
           }
         }

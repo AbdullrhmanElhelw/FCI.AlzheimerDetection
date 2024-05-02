@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FCI.AlzheimerDetection.DAL
-build_property.ProjectDir = /home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/
+build_property.ProjectDir = /home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

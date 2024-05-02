@@ -13,11 +13,11 @@ namespace FCI.AlzheimerDetection.BL.Managers.Impelementations;
 
 public class NormalUserManager : INormalUserManager
 {
-    private readonly UserManager<NormalUser> _normalUser;
+    private readonly UserManager<ApplicationUser> _normalUser;
     private readonly ITokenProvider _tokenProvider;
     private readonly IEmailManager _emailManager;
 
-    public NormalUserManager(UserManager<NormalUser> normalUser, ITokenProvider tokenProvider, IEmailManager emailManager)
+    public NormalUserManager(UserManager<ApplicationUser> normalUser, ITokenProvider tokenProvider, IEmailManager emailManager)
     {
         _normalUser = normalUser;
         _tokenProvider = tokenProvider;
@@ -56,18 +56,25 @@ public class NormalUserManager : INormalUserManager
         if (string.IsNullOrEmpty(registerDTO.Email) || string.IsNullOrWhiteSpace(registerDTO.Email))
             return Result.Failure("Email is Required");
 
+        string userName;
+        var atIndex = registerDTO.Email.IndexOf('@');
+        if (atIndex != -1)
+            userName = registerDTO.Email[..atIndex];
+        else
+            return Result.Failure("Email is not Valid");
+        
         var user = new NormalUser
         {
             FirstName = registerDTO.FirstName,
             LastName = registerDTO.LastName,
-            UserName = registerDTO.Email[..registerDTO.Email.IndexOf('@')],
+            UserName = userName,
             Email = registerDTO.Email
         };
 
-        var creaationResult = await _normalUser.CreateAsync(user, registerDTO.Password);
+        var result = await _normalUser.CreateAsync(user, registerDTO.Password);
 
-        if (!creaationResult.Succeeded)
-            return Result.Failure("".GetErrorResult(creaationResult));
+        if (!result.Succeeded)
+            return Result.Failure("".GetErrorResult(result));
 
         var addRoleResult = await _normalUser.AddToRoleAsync(user, nameof(AppRoles.NormalUser));
 

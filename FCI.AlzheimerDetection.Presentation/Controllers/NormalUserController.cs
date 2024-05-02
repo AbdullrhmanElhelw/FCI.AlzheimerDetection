@@ -41,9 +41,10 @@ public class NormalUserController : ControllerBase
     }
 
     [HttpPost(ApiRoutes.NormalUsers.ConfirmEmail)]
-    public async Task<IActionResult> ConfirmEmail(string email, string token)
+    [AllowAnonymous]
+    public async Task<IActionResult> ConfirmEmail(ConfirmEmailDTO confirmEmailDto)
     {
-        var result = await _normalUserManager.ConfirmEmail(email, token);
+        var result = await _normalUserManager.ConfirmEmail(confirmEmailDto.Email, confirmEmailDto.Token);
         return result.IsSuccess ?
             Ok(result)
             : BadRequest(result);
@@ -76,4 +77,5 @@ public class NormalUserController : ControllerBase
             Ok(result)
             : BadRequest(result);
     }
+
 }

@@ -69,9 +69,9 @@ public static class ApiRoutes
         public const string Base = "api/normal-users";
         public const string Register = "register";
         public const string Login = "login";
-        public const string ConfirmEmail = "confirm-email/{token}";
+        public const string ConfirmEmail = "confirm-email";
         public const string ForgotPassword = "forgot-password/{email}";
         public const string ResetPassword = "reset-password/{email}/{token}";
-        public const string ChangePassword = "change-password/{id:int}";
+        public const string ChangePassword = "change-password/{email}";
     }
 }

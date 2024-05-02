@@ -3931,11 +3931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/FCI.AlzheimerDetection.DAL.csproj",
+      "projectUniqueName": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/FCI.AlzheimerDetection.DAL.csproj",
       "projectName": "FCI.AlzheimerDetection.DAL",
-      "projectPath": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/FCI.AlzheimerDetection.DAL.csproj",
+      "projectPath": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/FCI.AlzheimerDetection.DAL.csproj",
       "packagesPath": "/home/eng-cocu/.nuget/packages/",
-      "outputPath": "/home/eng-cocu/Downloads/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/obj/",
+      "outputPath": "/home/eng-cocu/RiderProjects/FCI.AlzheimerDetection/FCI.AlzheimerDetection.DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eng-cocu/.nuget/NuGet/NuGet.Config"
