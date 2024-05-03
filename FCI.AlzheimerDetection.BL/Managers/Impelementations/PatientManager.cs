@@ -5,6 +5,7 @@ using FCI.AlzheimerDetection.DAL.UOW;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using System.Text;
+using FCI.AlzheimerDetection.DAL.Models;
 
 namespace FCI.AlzheimerDetection.BL.Managers.Impelementations;
 
@@ -34,9 +35,20 @@ public class PatientManager : IPatientManager
             return Task.FromResult(Result.Failure(error.ToString()));
         }
 
-        patientDTO.AdminId = adminId;
 
-        _unitOfWork.patientRepository.Create(patientDTO);
+        var patientToAdd = new Patient()
+        {
+            FirstName = patientDTO.FirstName,
+            LastName = patientDTO.LastName,
+            AdminId = adminId,
+            SSN = patientDTO.SSN,
+            City = patientDTO.City,
+            ZipCode = patientDTO.ZipCode,
+            BirthDate = patientDTO.BirthDate,
+            Phone = patientDTO.Phone
+        };
+
+        _unitOfWork.patientRepository.Create(patientToAdd);
         return _unitOfWork.Commit() == 0
             ? Task.FromResult(Result.Failure("Failed To Save"))
             : Task.FromResult(Result.Success());

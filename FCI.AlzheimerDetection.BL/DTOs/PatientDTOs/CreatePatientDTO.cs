@@ -30,19 +30,7 @@ public sealed record CreatePatientDTO
     public string Phone { get; init; } 
 
     public int AdminId { get; set; }
-
-    public static implicit operator Patient(CreatePatientDTO createPatientDTO) =>
-        new()
-        {
-            FirstName = createPatientDTO.FirstName,
-            LastName = createPatientDTO.LastName,
-            SSN = createPatientDTO.SSN,
-            Street = createPatientDTO.Street,
-            City = createPatientDTO.City,
-            ZipCode = createPatientDTO.ZipCode,
-            BirthDate = createPatientDTO.BirthDate,
-            Phone = createPatientDTO.Phone
-        };
+    
 }
 
 public class CreatePatientDTOValidator : AbstractValidator<CreatePatientDTO>
