@@ -2,7 +2,8 @@
 
 ## Introduction
 **"AlzAware"**
-"AlzAware" is a cutting-edge application that utilizes advanced MRI scanning technology to detect and determine the level of Alzheimer's disease in patients.
+- "AlzAware" is a cutting-edge application that utilizes advanced MRI scanning technology to detect and determine the level of Alzheimer's disease in patients.
+- This project was developed as a graduation project for the Faculty of Computer Science, Zagazig University.
 
 
 ## Problem Statement    
