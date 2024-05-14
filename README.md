@@ -48,3 +48,10 @@ Alzheimer's disease is a progressive disorder that causes brain cells to degener
 - **Testing**: Postman
 - **Architecture**: N-Tier Architecture
 - **Methodology**: Waterfall
+
+## Api Documentation
+- [Bump.sh](https://bump.sh/abdullrhmanelhelw/hub/eng-cocu-hub/doc/alzaware)
+
+## Docker Image
+- [Docker Image](https://hub.docker.com/r/abdullrhmanelhelw/alzaware)
+
